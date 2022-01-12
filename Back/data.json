@@ -1,0 +1,469 @@
+{
+  "Cars": [
+    {
+      "id": 1,
+      "brand": "Ferrari",
+      "model": "California",
+      "price": 725,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Ferrari%20California-Convers.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Porsche",
+      "model": "911 Turbo S",
+      "price": 725,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Porsche%20911-Turbo-S(2).png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Porsche",
+      "model": "911 Turbo S",
+      "price": 725,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Porsche%20911-Turbo-S(3).png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Porsche",
+      "model": "911 GT3 RS",
+      "price": 825,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Porsche%20911-GT3-RS.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Bentley",
+      "model": "Continental GT",
+      "price": 825,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Bentley%20Continental-GT.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "BMW",
+      "model": "M1 Competition",
+      "price": 825,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/BMW%20M1-Competition.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Alfa Romeo",
+      "model": "4C Spider",
+      "price": 825,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Alfa-Romeo%204C-Spider.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Mclaren",
+      "model": "P1 GTR",
+      "price": 925,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Mclaren%20P1-GTR.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Lamborhini",
+      "model": "Aventador",
+      "price": 925,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Lamborhini%20Aventador.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Bugatti",
+      "model": "Veyron Spyder",
+      "price": 925,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Bugatti%20Veyron-Spyder.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Chevrolet",
+      "model": "Corvett",
+      "price": 925,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Chevrolet%20Corvett.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Ferrari",
+      "model": "California",
+      "price": 725,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Ferrari%20California.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "Rolls-Royce",
+      "model": "Wraith",
+      "price": 725,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Rolls-Royce%20Wraith.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "Porsche",
+      "model": "911 Turbo S",
+      "price": 725,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Porsche%20911-Turbo-S.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "Mercedes-benz",
+      "model": "AMG GTS",
+      "price": 725,
+      "icon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Mercedes-benz%20AMG-GTS.png",
+      "brandIcon": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Brand-Icon.png",
+      "colors": [
+        {
+          "id": "01",
+          "color": "Red",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Red-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Red.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Red.png"
+        },
+        {
+          "id": "02",
+          "color": "Yellow",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Yellow-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Yellow.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Yellow.png"
+        },
+        {
+          "id": "03",
+          "color": "Gray",
+          "selectedImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Selected-Gray-Car.png",
+          "primaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Primary-Image-Gray.png",
+          "secondaryImage": "https://raw.githubusercontent.com/MatheusSenaRosa/pictures/master/Secondary-Image-Gray.png"
+        }
+      ]
+    }
+  ]
+}
